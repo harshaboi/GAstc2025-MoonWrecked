@@ -1,0 +1,568 @@
+fileFormatVersion: 2
+guid: 2de85915921789e439fefb07410d5fa6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2491897991407786572
+    second: SpaceStation_Projectiles_Sheet_0
+  - first:
+      213: 578769701460269394
+    second: SpaceStation_Projectiles_Sheet_1
+  - first:
+      213: -5013869213346217127
+    second: SpaceStation_Projectiles_Sheet_2
+  - first:
+      213: 2589538498700673718
+    second: SpaceStation_Projectiles_Sheet_3
+  - first:
+      213: -4184725848932958503
+    second: SpaceStation_Projectiles_Sheet_4
+  - first:
+      213: -5629259772785542857
+    second: SpaceStation_Projectiles_Sheet_5
+  - first:
+      213: 7535624244353236731
+    second: SpaceStation_Projectiles_Sheet_6
+  - first:
+      213: 6451697359851154763
+    second: SpaceStation_Projectiles_Sheet_7
+  - first:
+      213: 4790514476266605518
+    second: SpaceStation_Projectiles_Sheet_8
+  - first:
+      213: -5440748572214945757
+    second: SpaceStation_Projectiles_Sheet_9
+  - first:
+      213: 4652178236058888315
+    second: SpaceStation_Projectiles_Sheet_10
+  - first:
+      213: -4141415201263758634
+    second: SpaceStation_Projectiles_Sheet_11
+  - first:
+      213: -6360585957166933984
+    second: SpaceStation_Projectiles_Sheet_12
+  - first:
+      213: 1694342715689215017
+    second: SpaceStation_Projectiles_Sheet_13
+  - first:
+      213: -1109516034565338985
+    second: SpaceStation_Projectiles_Sheet_14
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SpaceStation_Projectiles_Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 38
+        width: 12
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72b78cf4b31911e42828a25dcdf7d5af
+      internalID: -2491897991407786572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation_Projectiles_Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 38
+        width: 12
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 916695eef7f553142a16a6cde56867bd
+      internalID: 578769701460269394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation_Projectiles_Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 38
+        width: 11
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94ef380c8081a7a4e806b561e6134c3e
+      internalID: -5013869213346217127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation_Projectiles_Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 35
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b980768cffb31945a9942283d168f24
+      internalID: 2589538498700673718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation_Projectiles_Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 33
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cca63d492216fde4c809819119256d18
+      internalID: -4184725848932958503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation_Projectiles_Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 33
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 299e4fd7053bdf34180a3f9e02ab28ae
+      internalID: -5629259772785542857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation_Projectiles_Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 33
+        width: 4
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f688f9e0838b1f4d985fd5e10a3d507
+      internalID: 7535624244353236731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation_Projectiles_Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 21
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02225d45dbab1bf47a4670e514daf376
+      internalID: 6451697359851154763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation_Projectiles_Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 21
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dd1c4ac3ed57734393d77cc03e24402
+      internalID: 4790514476266605518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation_Projectiles_Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 21
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df6ffb4870eee7446ba4429ec0c2e817
+      internalID: -5440748572214945757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation_Projectiles_Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea50b01fca66bae409936120867377de
+      internalID: 4652178236058888315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation_Projectiles_Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 2
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca89399b092281e49bb5b47273a0350a
+      internalID: -4141415201263758634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation_Projectiles_Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8096dc962c748f458364fbb09dff174
+      internalID: -6360585957166933984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation_Projectiles_Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 3
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a72cb451ea9a81e49b7e5eeab43a2472
+      internalID: 1317408922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation_Projectiles_Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 3
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dd613916c1510f47b5453962688d28b
+      internalID: 1804032823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation_Projectiles_Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 2
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ef1329eeec5f8f4995f6f7498714553
+      internalID: -361474649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation_Projectiles_Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9c7493ef1796e44695328b259d092c0
+      internalID: -396735912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 890cf14d65464b34ca9ca9e3895538b5
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      SpaceStation_Projectiles_Sheet_0: -2491897991407786572
+      SpaceStation_Projectiles_Sheet_1: 578769701460269394
+      SpaceStation_Projectiles_Sheet_10: 4652178236058888315
+      SpaceStation_Projectiles_Sheet_11: -4141415201263758634
+      SpaceStation_Projectiles_Sheet_12: -6360585957166933984
+      SpaceStation_Projectiles_Sheet_13: 1694342715689215017
+      SpaceStation_Projectiles_Sheet_14: -1109516034565338985
+      SpaceStation_Projectiles_Sheet_15: 1317408922
+      SpaceStation_Projectiles_Sheet_16: 1804032823
+      SpaceStation_Projectiles_Sheet_17: -361474649
+      SpaceStation_Projectiles_Sheet_18: -396735912
+      SpaceStation_Projectiles_Sheet_2: -5013869213346217127
+      SpaceStation_Projectiles_Sheet_3: 2589538498700673718
+      SpaceStation_Projectiles_Sheet_4: -4184725848932958503
+      SpaceStation_Projectiles_Sheet_5: -5629259772785542857
+      SpaceStation_Projectiles_Sheet_6: 7535624244353236731
+      SpaceStation_Projectiles_Sheet_7: 6451697359851154763
+      SpaceStation_Projectiles_Sheet_8: 4790514476266605518
+      SpaceStation_Projectiles_Sheet_9: -5440748572214945757
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
